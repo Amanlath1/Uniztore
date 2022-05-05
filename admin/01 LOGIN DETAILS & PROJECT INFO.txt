@@ -1,6 +1,6 @@
 **Database Name: ecommerceapp**
 
-**Developed by Rizwan Khan**
+**Developed by PH21 BCC+BCD-113_Gp_B_T5**
 
 **Recommended PHP Version 5.6.3**
 
