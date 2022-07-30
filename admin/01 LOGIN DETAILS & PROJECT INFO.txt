@@ -1,6 +1,17 @@
 **Database Name: ecommerceapp**
 
-**Developed by PH21 BCC+BCD-113_Gp_B_T5**
+**Developed by Team : PH21 BCC+BCD-113_Gp_B_T5**
+Aman Lath          21CDO1026 
+
+Ankit Raj          21CDO1058 
+
+Deepanshi Tomar    21CDO1034 
+
+Sahil Aftab        21CDO1028 
+
+Prakhar Upreti     21CDO1009 
+
+Arvind Chaudhary   21CDO1064 
 
 **Recommended PHP Version 5.6.3**
 
